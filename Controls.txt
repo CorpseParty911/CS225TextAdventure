@@ -1,0 +1,20 @@
+Type any of the following to proceed in that direction:
+
+    north, south, east, west, northeast, northwest, southeast, southwest, up, down
+
+Other useful keywords:
+
+    Quit: Fairly certain I don't need to explain
+    Kill monsterName with weaponName: Attack the monster named with the weapon named. The monster must be in the room, and you must have the weapon.
+    Take itemName: Pick up an item in the room.
+    Drop itemName: Drop an item you are holding.
+    Wait: Restore a bit of health. Not advised to do with an enemy in the room.
+    Jump: Entirely pointless, except when you're in the kitchen. (Note: It's a Zork reference, and it will kill you.)
+
+Side note: You can kill yourself by entering the name you chose or "myself"
+
+Path through the cave: West 4x, North 3x (No particular order to this, since it's a large open room. In the room you end up in is the Key.)
+
+Path through the maze: South 3x, East, South, West 2x, North, West 3x, North 2x, East 2x, North, West 2x
+
+If you want a weapon that doesn't suck: (In Maze) West, North, West, North 2x, West, North, West, South 2x. You should end up in a dead end.
